@@ -345,12 +345,15 @@ php spark serve
 #
 ### Output
 
-![]() 
+![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example1.jpg) 
 
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example2.jpg) 
+
+![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example3.jpg) 
+
+![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example4.jpg) 
+
+![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example5.jpg) 
 
 ---
 
