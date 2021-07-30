@@ -1,20 +1,15 @@
 # ci4_codeigniter4_crud_simple
- 
-https://makitweb.com/crud-create-read-update-delete-in-a-codeigniter-4/
-
-https://onlinewebtutorblog.com/codeigniter-4-command-change-php-spark-default-port/
-
 
 # Content
 
-- [Database configuration]()
-- [Create Table]()
-- [Model]()
-- [Route]()
-- [Controller]()
-- [View]()
-- [Run]()
-- [Output]()
+- [Database configuration](#database-configuration)
+- [Create Table](#create-table)
+- [Model](#model)
+- [Route](#route)
+- [Controller](#controller)
+- [View](#view)
+- [Run](#run)
+- [Output](#output)
 
 ---
 
@@ -354,6 +349,10 @@ php spark serve
 ![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example4.jpg) 
 
 ![](https://github.com/gzeinnumer/ci4_codeigniter4_crud_simple/blob/master/preview/example5.jpg) 
+
+---
+
+https://onlinewebtutorblog.com/codeigniter-4-command-change-php-spark-default-port/
 
 ---
 
