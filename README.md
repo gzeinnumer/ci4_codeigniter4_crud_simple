@@ -34,8 +34,8 @@ database.default.DBDriver = MySQLi
 CI_ENVIRONMENT = development
 ```
 
+- Open `app/Config/App.php` file which is available at the project root.
 ```php
-//app/Config/App.php
 public $baseURL = 'http://localhost:8080/';
 ```
 
