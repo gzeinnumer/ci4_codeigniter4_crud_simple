@@ -29,6 +29,16 @@ database.default.password =
 database.default.DBDriver = MySQLi
 ```
 
+```php
+# CI_ENVIRONMENT = production
+CI_ENVIRONMENT = development
+```
+
+```php
+//app/Config/App.php
+public $baseURL = 'http://localhost:8080/';
+```
+
 #
 ## Create Table
 
